@@ -1,4 +1,4 @@
-## Hi, I'm Lucas a development software student at Cubos Academy and Computer Science at UFF.
+## I'm Lucas a development software student at Cubos Academy and Computer Science at UFF.
 
 
 
