@@ -1,5 +1,9 @@
 ## I'm Lucas a development software student at Cubos Academy and Computer Science at UFF.
 
+-- 📚 Inglês nivel intermediário para avançado.
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xVieiraLucas&count_private=true&hide=stars&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVieiraLucas&layout=compact&theme=github_dark)](https://github.com/xVieiraLucas/github-readme-stats)
 
