@@ -21,4 +21,4 @@
   
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xVieiraLucas&repo=github-readme-stats)](https://github.com/xVieiraLucas/desafio-frontend-m03-dds-t11)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xVieiraLucas)](https://github.com/xVieiraLucas/desafio-frontend-m03-dds-t11)
