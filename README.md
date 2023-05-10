@@ -21,5 +21,7 @@
   
 </div>
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xVieiraLucas&repo=desafio-frontend-m03-dds-t11)](https://github.com/xVieiraLucas/desafio-frontend-m03-dds-t11)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xVieiraLucas&repo=frontend-projeto-pratico-modulo-02-desafio)](https://github.com/xVieiraLucas/frontend-projeto-pratico-modulo-02-desafio)
 
