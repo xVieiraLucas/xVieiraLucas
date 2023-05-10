@@ -6,10 +6,10 @@
 
 -📚 Inglês nivel intermediário/avançado.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xVieiraLucas&count_private=true&hide=stars&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVieiraLucas&layout=compact&theme=github_dark)](https://github.com/xVieiraLucas/github-readme-stats)
-
+<div>
+<img height='180em' src='(https://github-readme-stats.vercel.app/api?username=xVieiraLucas&count_private=true&hide=stars&show_icons=true&theme=github_dark)'/>
+  <img height='180em' src='(https://github-readme-stats.vercel.app/api/top-langs/?username=xVieiraLucas&layout=compact&theme=github_dark)'/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
