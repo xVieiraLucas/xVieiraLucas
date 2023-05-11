@@ -1,14 +1,14 @@
 ## I'm Lucas a development software student at Cubos Academy and Computer Science at UFF.
 
-- 💻 Atualmente atuo como técnico de computadores em minha cidade, onde tenho uma loja de informática.
+- 💻 Currently I work as a computer technician in my city, where I have a computer store.
 
-- 🔍 Em Busca da minha primeira oportunidade no mundo do desenvolvimento.
+- 🔍 In search of my first opportunity in the world of web development.
 
-- ✍️ Atualmente estudando Typescript e React.
+- ✍️ Currently studying Typescript and React.
 
-- 📚 Inglês nivel intermediário/avançado.
+- 📚 English intermediate/advanced level.
 
-- 👨‍✈️ Piloto Privado de Avião por hobbie.
+- 👨‍✈️ Private Airplane Pilot by hobby.
 
   ##
 
